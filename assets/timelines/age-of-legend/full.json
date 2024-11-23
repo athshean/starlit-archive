@@ -1,0 +1,123 @@
+[
+    {
+        "title": "The Age of Strife",
+        "content": "The fragmentation of the cosmos; the Earth is caught within the tumult.",
+        "icon": ":fontawesome-solid-explosion:",
+        "key": "timeline-dark",
+        "sub_title": "The Gods Declare War"
+    },
+    {
+        "title": "The Age of Ash",
+        "content": "The conflict between the Gods leads to a seismic event that engulfs the world in a great ash cloud for 53 years.",
+        "icon": ":fontawesome-solid-volcano:",
+        "key": "timeline-dark",
+        "sub_title": "The Cataclysmic Eruption"
+    },
+    {
+        "title": "The Dragon Cull",
+        "content": "Humanity blames dragons for the catastrophic events and hunts them into disappearance.",
+        "key": "timeline-dark"
+    },
+    {
+        "title": "The Invention of Cold Fire",
+        "content": "People make great magical and technological advances in order to adapt in desperate times.",
+        "key": "timeline-light"
+    },
+    {
+        "title": "The Midnight War",
+        "content": "States and kingdoms wage war over the scarce resources in a world benighted by the impenetrable ash.",
+        "icon": ":fontawesome-solid-smog:",
+        "key": "timeline-dark",
+        "sub_title": "The Great War Fought in Darkness"
+    },
+    {
+        "title": "The Dogs of War",
+        "content": "Developments in vivisection and chirurgy to create chimeric hounds that ravage the land.",
+        "key": "timeline-dark"
+    },
+    {
+        "title": "The False Peace",
+        "content": "A time of fragile peace brought about by the lifting of the ash and the eventual end of the War; an age when dragons return.",
+        "icon": ":fontawesome-solid-dove:",
+        "key": "timeline-light",
+        "sub_title": "The Ash Lifts and the War Ends"
+    },
+    {
+        "title": "The Ash Lifts",
+        "content": "The return of the light; the re-emergence of plant life.",
+        "key": "timeline-light"
+    },
+    {
+        "title": "The End of the Midnight War",
+        "content": "The final days of conflict and the cessation of hostilities between human territories.",
+        "key": "timeline-light"
+    },
+    {
+        "title": "The Day of Wrath",
+        "content": "The final battle of the Midnight War; the disastrous hubris of humanity and the vengeance of dragons.",
+        "key": "timeline-light"
+    },
+    {
+        "title": "The Resurgence of Dragons",
+        "content": "The ascendancy of vengeful dragons.",
+        "key": "timeline-dark"
+    },
+    {
+        "title": "The Death of Mushrooms",
+        "content": "The erosion of ecological vestiges from the age of darkness.",
+        "key": "timeline-dark"
+    },
+    {
+        "title": "The Age of False Gods",
+        "content": "The growing influence of draconic cults; the proliferation of multiple sects.",
+        "icon": ":fontawesome-solid-church:",
+        "key": "timeline-light",
+        "sub_title": "An Age of Dragon Worship"
+    },
+    {
+        "title": "The Proliferation of Cults",
+        "content": "The emergence of many different factions that worship different dragons.",
+        "key": "timeline-dark"
+    },
+    {
+        "title": "The Draconic Ascendency",
+        "content": "The consolidation of the most powerful cult of dragon worshippers.",
+        "key": "timeline-dark"
+    },
+    {
+        "title": "The Resurgent Strife",
+        "content": "Renewed war between the Gods; the Great Separation of the Continents; renewed upheaval and calamity.",
+        "icon": ":fontawesome-solid-burst:",
+        "key": "timeline-dark",
+        "sub_title": "The End of the False Peace"
+    },
+    {
+        "title": "The Great Separation",
+        "content": "The shattering of the continents; the sundering of the Great Seas.",
+        "key": "timeline-dark"
+    },
+    {
+        "title": "The Flight of the Dragons",
+        "content": "The vanishing of the dragons; the fear of a second great cull.",
+        "key": "timeline-light"
+    },
+    {
+        "title": "The Age of Ruin",
+        "content": "Renewed fervour for dragon worship; expanding influence of cults.",
+        "icon": ":fontawesome-solid-dragon:",
+        "key": "timeline-dark",
+        "sub_title": "The Repudiation of Theocracy"
+    },
+    {
+        "title": "The Rise of Fýrsu",
+        "content": "The growth of the Cult of Fýrsu; the awaiting of her return.",
+        "key": "timeline-light"
+    },
+    {
+        "title": "The Long Decay",
+        "content": "The abandonment of the old Gods; a rejection of their conflict.",
+        "icon": ":fontawesome-solid-archway:",
+        "key": "timeline-light",
+        "sub_title": "The Last Temple Falls to Ruin"
+    }
+]
