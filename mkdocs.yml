@@ -36,6 +36,7 @@ nav:
 
 theme:
   name: material
+  custom_dir: overrides
 
   icon:
     admonition:
@@ -94,6 +95,7 @@ plugins:
   - git-committers:
       repository: athshean/starlit-archive
       branch: main
+      enabled: !ENV [CI, false]
   - git-revision-date-localized:
       type: custom
       custom_format: "%d %B %Y"
@@ -138,5 +140,6 @@ extra_css:
 
 watch:
   - includes
+  - overrides
 
-copyright: "&copy; athshean <script>document.write(new Date().getFullYear())</script>"
+copyright: "&copy; <a href='https://github.com/athshean/' target='_blank'>athshean</a> <script>document.write(new Date().getFullYear())</script>"
