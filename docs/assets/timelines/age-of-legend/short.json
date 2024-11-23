@@ -1,0 +1,58 @@
+[
+    {
+        "title": "The Age of Strife",
+        "content": "The fragmentation of the cosmos; the Earth is caught within the tumult.",
+        "icon": ":fontawesome-solid-explosion:",
+        "key": "timeline-dark",
+        "sub_title": "The Gods Declare War"
+    },
+    {
+        "title": "The Age of Ash",
+        "content": "The conflict between the Gods leads to a seismic event that engulfs the world in a great ash cloud for 53 years.",
+        "icon": ":fontawesome-solid-volcano:",
+        "key": "timeline-dark",
+        "sub_title": "The Cataclysmic Eruption"
+    },
+    {
+        "title": "The Midnight War",
+        "content": "States and kingdoms wage war over the scarce resources in a world benighted by the impenetrable ash.",
+        "icon": ":fontawesome-solid-smog:",
+        "key": "timeline-dark",
+        "sub_title": "The Great War Fought in Darkness"
+    },
+    {
+        "title": "The False Peace",
+        "content": "A time of fragile peace brought about by the lifting of the ash and the eventual end of the War; an age when dragons return.",
+        "icon": ":fontawesome-solid-dove:",
+        "key": "timeline-light",
+        "sub_title": "The Ash Lifts and the War Ends"
+    },
+    {
+        "title": "The Age of False Gods",
+        "content": "The growing influence of draconic cults; the proliferation of multiple sects.",
+        "icon": ":fontawesome-solid-church:",
+        "key": "timeline-light",
+        "sub_title": "An Age of Dragon Worship"
+    },
+    {
+        "title": "The Resurgent Strife",
+        "content": "Renewed war between the Gods; the Great Separation of the Continents; renewed upheaval and calamity.",
+        "icon": ":fontawesome-solid-burst:",
+        "key": "timeline-dark",
+        "sub_title": "The End of the False Peace"
+    },
+    {
+        "title": "The Age of Ruin",
+        "content": "Renewed fervour for dragon worship; expanding influence of cults.",
+        "icon": ":fontawesome-solid-dragon:",
+        "key": "timeline-dark",
+        "sub_title": "The Repudiation of Theocracy"
+    },
+    {
+        "title": "The Long Decay",
+        "content": "The abandonment of the old Gods; a rejection of their conflict.",
+        "icon": ":fontawesome-solid-archway:",
+        "key": "timeline-light",
+        "sub_title": "The Last Temple Falls to Ruin"
+    }
+]

@@ -1,0 +1,44 @@
+/* Import Custom Typeface */
+@import url('https://fonts.googleapis.com/css2?family=Faculty+Glyphic&display=swap');
+body {
+  font-family: 'Faculty Glyphic', sans-serif;
+}
+
+/* Make alert/notice banner brighter */
+.md-banner {
+  color: hsla(0, 0%, 0%, 0.87);
+  background-color: hsla(60, 100%, 80%, 1);
+}
+/* Make text in admonition boxes bigger */
+.md-typeset .admonition, .md-typeset .details {
+  font-size: unset;
+}
+/* Add styling for the title in typography */
+.text-archive-title {
+  font-size: larger;
+  font-variant: small-caps;
+  font-weight: bolder;
+}
+/* Capitalise tags */
+.md-typeset .md-tag {
+  text-transform: capitalize;
+}
+/* Add tag icon to tags */
+.md-typeset .md-tag::before {
+  width: 0.8rem;
+  height: 0.8rem;
+  display: inline-block;
+  content: "";
+  background-color: var(--md-typeset-color);
+  mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='m21.41 11.58-9-9A2 2 0 0 0 11 2H4a2 2 0 0 0-2 2v7a2 2 0 0 0 .59 1.41l9 9A2 2 0 0 0 13 22a2 2 0 0 0 1.41-.59l7-7A2 2 0 0 0 22 13a2 2 0 0 0-.59-1.42M6.5 8A1.5 1.5 0 1 1 8 6.5 1.5 1.5 0 0 1 6.5 8m5.09 7.41-4-4L9 10l4 4m2.59.41-5.5-5.5L11.5 7.5 17 13Z'></path></svg>") no-repeat 50% 50%;
+  -webkit-mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='m21.41 11.58-9-9A2 2 0 0 0 11 2H4a2 2 0 0 0-2 2v7a2 2 0 0 0 .59 1.41l9 9A2 2 0 0 0 13 22a2 2 0 0 0 1.41-.59l7-7A2 2 0 0 0 22 13a2 2 0 0 0-.59-1.42M6.5 8A1.5 1.5 0 1 1 8 6.5 1.5 1.5 0 0 1 6.5 8m5.09 7.41-4-4L9 10l4 4m2.59.41-5.5-5.5L11.5 7.5 17 13Z'></path></svg>") no-repeat 50% 50%;
+  mask-size: cover;
+  -webkit-mask-size: cover;
+}
+.card-read-more-link {
+  display: block;
+  text-align: right;
+}
+.no-wrap {
+  white-space: nowrap;
+}

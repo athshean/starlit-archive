@@ -1,0 +1,142 @@
+site_name: The Starlit Archive
+site_description: >-
+  An encyclopaedia chronicling the Whispers of the Starlit Abyss across the Era of Legend.
+site_url: https://athshean.github.io/starlit-archive/
+repo_name: athshean/starlit-archive
+repo_url: https://github.com/athshean/starlit-archive
+edit_uri: edit/main/docs/
+
+nav:
+  - Home:
+    - index.md
+    - starlit-abyss.md
+    - Meta:
+      - About the Campaign: meta/about.md
+      - Dramatis Personae: meta/dramatis-personae.md
+  - Explore:
+    - explore/index.md
+  - Creatures:
+    - creatures/index.md
+  - Deities:
+    - deities/index.md
+  - Factions:
+    - factions/index.md
+  - History:
+    - history/index.md
+    - The Age of Strife:
+      - history/the-age-of-strife/index.md
+  - Locations:
+    - locations/index.md
+  - People:
+    - people/index.md
+  - Timeline:
+    - timeline/index.md
+  - Tags:
+    - tags/index.md
+
+theme:
+  name: material
+
+  icon:
+    admonition:
+      abstract: material/script-text-key
+    edit: material/pencil 
+    logo: material/compass-rose
+    icon: materia/compass-rose
+    repo: fontawesome/brands/github
+    view: material/eye
+
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.tooltips
+    - navigation.footer
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/weather-hazy
+        name: Auto Light/Dark Mode
+      primary: black
+      accent: deep purple
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Light Mode
+      primary: black
+      accent: deep purple
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Dark Mode
+      primary: black
+      accent: deep purple
+
+plugins:
+  - git-committers:
+      repository: athshean/starlit-archive
+      branch: main
+  - git-revision-date-localized:
+      type: custom
+      custom_format: "%d %B %Y"
+  - search
+  - social
+  - tags:
+      tags_file: tags/index.md
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - neoteroi.timeline
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.snippets:
+      auto_append:
+        - includes/glossary.md
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tilde
+  - smarty
+  - tables
+  - toc:
+      permalink: true
+      title: Table of Contents
+
+extra_css:
+  - assets/stylesheets/extra.css
+  - assets/stylesheets/neoteroi-mkdocs.css
+  - assets/stylesheets/custom-timeline.css
+
+watch:
+  - includes
+
+copyright: "&copy; athshean <script>document.write(new Date().getFullYear())</script>"
