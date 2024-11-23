@@ -1,7 +1,7 @@
 /* Import Custom Typeface */
 @import url('https://fonts.googleapis.com/css2?family=Faculty+Glyphic&display=swap');
-body {
-  font-family: 'Faculty Glyphic', sans-serif;
+:root {
+  --md-text-font: 'Faculty Glyphic';
 }
 
 /* Make alert/notice banner brighter */
@@ -10,7 +10,7 @@ body {
   background-color: hsla(60, 100%, 80%, 1);
 }
 /* Make text in admonition boxes bigger */
-.md-typeset .admonition, .md-typeset .details {
+.md-typeset .admonition, .md-typeset details {
   font-size: unset;
 }
 /* Add styling for the title in typography */
