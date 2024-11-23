@@ -32,5 +32,3 @@ Boundaries between the ages is the subject of considerable historiographical dis
 === "Full Timeline"
 
     [timeline class="history-timeline" center (docs/assets/timelines/age-of-legend/full.json)]
-
-</div>
