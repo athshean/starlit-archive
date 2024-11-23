@@ -1,5 +1,7 @@
 # The Starlit Archive
 
+[Site deployed at https://athshean.github.io/starlit-archive/](https://athshean.github.io/starlit-archive/)
+
 This site is an encyclopaedia of lore for a *Pathfinder Second Edition* campaign I am running.
 It compiles all the background history and information to serve as a reference for the campaign.
 The encyclopaedia is written from an intradiegetic perspective, although some pages and asides give metacommentary about game elements.
