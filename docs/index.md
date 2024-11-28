@@ -10,7 +10,7 @@ It assembles fragments of knowledge from across the Era of Legend.
 
 <span class="text-archive-title">The Archive</span> is compiled by the Listeners, acolytes who strive to preserve these Whispers.
 We hope that these fragmentary echoes will someday harmonise into a great choir of wisdom from the Ages.
-    
+
 !!! Abstract "Reading <span class="text-archive-title">the Archive</span>"
 
     This is a record of history and lore for a *Pathfinder 2e* campaign I am running.

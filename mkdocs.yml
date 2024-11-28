@@ -25,6 +25,23 @@ nav:
     - history/index.md
     - The Age of Strife:
       - history/the-age-of-strife/index.md
+    - The Age of Ash:
+      - history/the-age-of-ash/index.md
+      - history/the-age-of-ash/the-dragon-cull.md
+      - history/the-age-of-ash/the-invention-of-cold-fire.md
+    - The Midnight War:
+      - history/the-midnight-war/index.md
+      - history/the-midnight-war/the-dogs-of-war.md
+    - The False Peace:
+      - history/the-false-peace/index.md
+    - The Age of False Gods:
+      - history/the-age-of-false-gods/index.md
+    - The Resurgent Strife:
+      - history/the-resurgent-strife/index.md
+    - The Age of Ruin:
+      - history/the-age-of-ruin/index.md
+    - The Long Decay:
+      - history/the-long-decay/index.md
   - Locations:
     - locations/index.md
   - People:

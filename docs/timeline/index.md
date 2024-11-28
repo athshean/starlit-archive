@@ -25,9 +25,9 @@ Boundaries between the ages is the subject of considerable historiographical dis
 
 --8<-- "includes/snippets/timeline-legend.md"
 
-=== "Short Timeline"
+<!-- === "Short Timeline"
 
-    [timeline class="history-timeline" center (docs/assets/timelines/age-of-legend/short.json)]
+    [timeline class="history-timeline" center (docs/assets/timelines/age-of-legend/short.json)] -->
 
 === "Full Timeline"
 

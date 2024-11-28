@@ -1,6 +1,10 @@
 ---
 title: The Starlit Abyss
 icon: material/star-settings
+tags:
+  - the great war
+  - the starlit abyss
+  - the whispers
 ---
 
 # The Starlit Abyss
