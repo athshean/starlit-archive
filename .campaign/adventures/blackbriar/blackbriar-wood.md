@@ -7,7 +7,6 @@ The deeper parts of the wood are much more difficult to navigate compared to the
 
 Thus wood is home to a variety of denizens, including fey who have settled here, and really rich flora.
 
-
 Blackbriar Wood is a dungeon with three entrances along its southern edge:
 from the east near the old logging site,
 from the middle following a small stream, and
@@ -39,7 +38,7 @@ This is a nest on the edge of the woods of various maladjusted fey creatures tha
 - Twigjack (3, *MC* 332)
 - Sprigjack (-1, *MC* 332) x 2
 
-** Rewards**
+**Rewards**
 
 - 120 xp
 - Zircon, uncut (2.5 gp, halved)
@@ -116,7 +115,7 @@ There is a fire pit and some seating, as well as a table selling refreshments an
 ### Encounter 1
 
 - The merchant selling wares has a pouch on the table that bears the insignia of the Listeners.
-  As he is confronted, he reveals that he found the pouch hidden beneath some stones on the riverbank as he was coming here.
+  When he is confronted, he reveals that he found the pouch hidden beneath some stones on the riverbank as he was coming here.
   He thought he could sell the trinkets and enjoy a small windfall.
 - Upon being told about the murder, he gives back the items:
   - Wayfinder x 1
