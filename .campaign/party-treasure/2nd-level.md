@@ -8,8 +8,8 @@
 
 - [ ] 21 gp
 - [ ] Blackwood branch (20 gp)
-- [ ] Cold iron chunk (10 gp)
-- [ ] Silver chunk (10 gp)
+- [x] Cold iron chunk (10 gp)
+- [x] Silver chunk (10 gp)
 - [ ] Runestones (3 x 3 gp)
 
 ## Consumable

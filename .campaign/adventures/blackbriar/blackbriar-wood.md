@@ -142,7 +142,7 @@ The entrance to this cave is heavily obscured by the undergrowth.
 
 ### Encounter
 
-- Hunting Spider (1, *MC* 20) x 2
+- Hunting Spider (1, *MC* 320) x 2
 
 **Rewards**:
 

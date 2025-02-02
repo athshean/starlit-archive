@@ -11,10 +11,10 @@
 ## Consumables
 
 - [x] Scroll of Illusory Disguise (1st, 4 gp)
-- [ ] Predator's Claw (1st, 3 gp)
-- [ ] Potion of Shared Memories (1st, 4 gp)
-- [ ] Silver Salve (2nd, 6 gp)
-- [ ] Jade Cat (2nd, 6 gp)
+- [x] Predator's Claw (1st, 3 gp)
+- [x] Potion of Shared Memories (1st, 4 gp)
+- [x] Silver Salve (2nd, 6 gp)
+- [x] Jade Cat (2nd, 6 gp)
 
 **Total**: 23 gp
 
@@ -22,8 +22,8 @@
 
 - [ ] Greataxe&mdash;Relic gift (1st, 20 gp)
 - [ ] Trident&mdash;Relic gift (1st, 20 gp)
-- [ ] +1 weapon potency rune (2nd, 35 gp)
-- [ ] Wayfinder (2nd, 28 gp)
+- [x] +1 weapon potency rune (2nd, 35 gp)
+- [x] Wayfinder (2nd, 28 gp)
 
 **Total**: 103 gp
 
@@ -32,12 +32,12 @@
 This is to make up the balance in value.
 
 - [ ] Tiger's Eye, unpolished (1.5 gp, halved)
-- [ ] Pearl, irregular freshwater (3 gp)
-- [ ] Alabaster (1 gp)
+- [x] Pearl, irregular freshwater (3 gp)
+- [x] Alabaster (1 gp)
 - [ ] Zircon, uncut (2.5 gp, halved)
-- [ ] Bronze statue of a bull (2 gp)
-- [ ] Plain brass censer (2 gp)
-- [ ] Turquoise, uncut (2 gp, halved)
+- [x] Bronze statue of a bull (2 gp)
+- [x] Plain brass censer (2 gp)
+- [x] Turquoise, uncut (2 gp, halved)
 
 **Total**: 14 gp  
 **Adjusted**: 11 gp
